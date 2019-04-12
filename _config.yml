@@ -4,7 +4,7 @@ background-image: http://sf6-tccdn-tos.pstatp.com/obj/tuchong-avatar/h_2301626_1
 
 include: 
   enable: true
-  html: "gallery.html"
+  # html: "gallery.html"
 
 images: 
     - title: 爱人
