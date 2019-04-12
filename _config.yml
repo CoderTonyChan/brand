@@ -2,9 +2,9 @@ remote_theme: CoderTonyChan/tonydesign-jekyll
 google_analytics: UA-135626320-2
 background-image: http://sf6-tccdn-tos.pstatp.com/obj/tuchong-avatar/h_2301626_1
 
-# include: 
-#   enable: true
-  # html: "gallery.html"
+include: 
+    enable: true
+    html: "gallery.html"
 
 images: 
     - title: 爱人
